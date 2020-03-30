@@ -1,0 +1,26 @@
+apagar dentro da pasta frontend 
+app.css
+readme.md
+app.test.js
+index.css
+logo.svg
+serviceWorker.js
+setupTests.js
+
+
+depois ir no app.js e index.js e apagar todas as refências a estes arquivos
+
+
+depois na pasta public deletar
+robots.txt
+manifest.json
+as 2 logos .png
+
+
+depois ir no arquivo public > index.html e apagar
+
+do <meta
+        name= "description"...
+
+
+... até antes de <title>
